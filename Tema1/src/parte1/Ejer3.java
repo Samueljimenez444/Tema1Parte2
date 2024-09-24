@@ -12,7 +12,7 @@ public class Ejer3 {
 		/* Le damos a la variable "año" el valor de 2024 */
 		año = 2024;
 		/* Le preguntamos al usuario en que año nacio */
-		System.out.println("¿En que año naciste?");
+		System.out.println("¿En que año naciste?");5
 		/* Creamos el scanenr */
 		Scanner sc = new Scanner(System.in);
 		/*
