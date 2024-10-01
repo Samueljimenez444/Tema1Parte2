@@ -6,10 +6,13 @@ public class Ejer3 {
 
 	public static void main(String[] args) {
 	
-		/*Creamos las variables*/
+		//Creamos la variable numero usada como referencia para el calculo
 	    int numero;
+		//Creamos la variable numero2 usada como referencia para la suma de numeros que necesitamos
 	    int numero2;
+		//Creamos la variable resto que actuara como el resto del calculo
 	    int resto;
+		//Creamos la variable total que calculara la expresion final 
 	    int total;
 	    //Creamos el Scanner
 		Scanner lectura= new Scanner(System.in);

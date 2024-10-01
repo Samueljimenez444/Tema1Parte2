@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class Ejer1 {
 
 	public static void main(String[] args) {
-		/* Creamos las variables */
+		//Creamos la variable numero que actua como numero que introduce el usuario
 		double numero;
+		//Creamos la variable redondeado que sirve para redondear el numero introducido
         int redondeado;
         // Creamos el Scanner
         Scanner lectura=new Scanner(System.in);
